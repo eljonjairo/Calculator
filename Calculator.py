@@ -1,4 +1,4 @@
-# Scientific calculator using tkinter
+# Basic calculator using tkinter
 # john Diaz 
 # january 2023
 # Based on Tkinter Course - Create Graphic User Interfaces in Python Tutorial video freecodecamp.org
